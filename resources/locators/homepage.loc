@@ -1,0 +1,9 @@
+toi.homepage.header = {\"locator\":\"xpath=///android.widget.TextView[@text='TOI']\",\"desc\":\"homepage header\"}
+toi.top.stories.title = {\"locator\":\"xpath=//*[@text='TOP STORIES']\",\"desc\":\"Top Stories text\"}
+toi.stories.news.list = {\"locator\":\"xpath=//*[@resource-id='com.toi.reader.activities:id/recycleViewHome']/android.widget.FrameLayout//android.widget.TextView\",\"desc\":\"Top Stories News List\"}
+top.stories.new.page.back.button = {\"locator\":\"xpath=//android.widget.ImageButton[@class='android.widget.ImageButton']\",\"desc\":\"Top Stories news page back button\"}
+top.stories.news.title = {\"locator\":\"xpath=//*[@resource-id='com.toi.reader.activities:id/tv_headline']\",\"desc\":\"Top stories news page title\"}
+home.page.category.button = {\"locator\":\"xpath=//*[@content-desc='Open navigation drawer']\",\"desc\":\"Home page category button\"}
+home.page.category.list = {\"locator\":\"xpath=//*[@resource-id='com.toi.reader.activities:id/rv_leftmenu']/android.widget.CheckedTextView\",\"desc\":\"Categories list\"}
+hindi.news.list = {\"locator\":\"xpath=//*[@resource-id='com.toi.reader.activities:id/recycleViewHome']//android.widget.TextView\",\"desc\":\"Hindi news List\"}
+hindi.page.title.text= {\"locator\":\"xpath=//*[@text='Hindi']\",\"desc\":\"Hindi news List\"}

@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "test",
+        "sign": "BaseTest.test()[pri:0, instance:com.demo.BaseTest@2f0a87b3]"
+      },
+      "dependsOn": [],
+      "startTime": 1498655114544,
+      "duration": 35709,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

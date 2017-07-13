@@ -1,0 +1,4 @@
+entertainment.language.list= {\"locator\":\"xpath=//*[@resource-id='com.toi.reader.activities:id/tv_section_name']\",\"desc\":\"Hindi news List\"}
+entertainment.title.text={\"locator\":\"xpath=//*[@text='Entertainment']\",\"desc\":\"Entertainment title text\"}
+news.list = {\"locator\":\"xpath=//*[@resource-id='com.toi.reader.activities:id/recycleViewHome']/android.widget.FrameLayout//android.widget.TextView\",\"desc\":\" News List\"}
+page.back.button = {\"locator\":\"xpath=//android.widget.ImageButton[@class='android.widget.ImageButton']\",\"desc\":\" page back button\"}

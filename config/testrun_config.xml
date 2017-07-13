@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="QAS Demo" verbose="0">
+	<test name="DemoTest" enabled="true">
+		<classes>
+			<class name="com.toi.tests.TOITests">
+				<methods>
+                 
+					<include name="verifyEntertainmnetTab">
+					</include>
+
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
